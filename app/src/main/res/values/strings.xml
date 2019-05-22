@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Thor\'s BMI Machine </string>
+    <string name="weight">Weight (In Kg)</string>
+    <string name="height">Height (In CM)</string>
+    <string name="Calculate_BMI">Calculate BMI</string>
+
+    <string name="very_severely_underweight">Ultra Mega Thin Thor</string>
+    <string name="severely_underweight"> Mega Thin Thor</string>
+    <string name="underweight">Thin Thor</string>
+    <string name="normal">Normal Thor</string>
+    <string name="overweight">Fat Thor</string>
+    <string name="obese_class_i"> Thorbesity Level 1(Moderately Obese)</string>
+    <string name="obese_class_ii">Thorbesity Level 2 (Extremely Obese)</string>
+    <string name="obese_class_iii">Donut Thor (Doomed)</string>
+</resources>
